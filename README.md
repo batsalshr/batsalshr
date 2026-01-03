@@ -10,7 +10,7 @@
 ---
 
 <img align="right" height="160"
-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1cTh5amlzOTB2aDIyaDg1bWw4d29rdmZmbm53bmdwcWgwa3ZnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXJXa7vxesiXrmuwv2/giphy.gif](https://tenor.com/mE9jcVFF6FU.gif)" />
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1cTh5amlzOTB2aDIyaDg1bWw4d29rdmZmbm53bmdwcWgwa3ZnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXJXa7vxesiXrmuwv2/giphy.gif" />
 
 ### 👨‍💻 About Me
 - 🎓 Software student passionate about **Web Development & Python**
