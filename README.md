@@ -67,16 +67,3 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1cTh5amlzOTB2aDIyaDg1b
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=batsalshr&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=batsalshr&show_icons=true&theme=tokyonight)
-
----
-
-### 🐍 Contribution Snake
-> If this shows broken right now, it means the snake workflow hasn’t generated the file yet.
-
-![Snake animation](https://raw.githubusercontent.com/batsalshr/batsalshr/output/snake.svg)
