@@ -9,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zeyrox_gb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeyrox_gb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/batsal-nath-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batsal-nath-shrestha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/batsalr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="batsalr0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/batsal-nath-shrestha-243a56269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/batsal-nath-shrestha-243a56269/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@batsalr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@batsalr0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
