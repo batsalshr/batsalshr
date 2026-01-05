@@ -68,5 +68,4 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1cTh5amlzOTB2aDIyaDg1b
 
 ---
 
-## 🐍 Snake Contribution Graph
 ![Snake animation](https://raw.githubusercontent.com/batsalshr/batsalshr/output/snake.svg)
