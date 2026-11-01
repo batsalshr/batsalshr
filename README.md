@@ -1,71 +1,127 @@
-<h1 align="center">Hi 👋, I'm Batsal Nath Shrestha</h1>
-<h3 align="center">
-  Software Student building web apps with Django | Marketing & Ads Strategist by profession
-</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=batsalshr&label=Profile%20views&color=0e75b6&style=flat" alt="batsalshr" />
+<div align="center">
+
+# Hey there! 👋 I'm Batsal Nath Shrestha
+
+### 💻 Software Developer | 📊 Digital Marketing Strategist
+
+**Building digital experiences through code, creativity, and strategy.**
+
+I'm a software student and digital marketing professional passionate about developing web applications, solving real-world problems, and creating meaningful digital experiences.
+
+<img src="https://komarev.com/ghpvc/?username=batsalshr&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+
+</div>
+
+---
+
+<img align="right" width="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1cTh5amlzOTB2aDIyaDg1bWw4d29rdmZmbm53bmdwcWgwa3ZnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXJXa7vxesiXrmuwv2/giphy.gif" alt="Coding GIF" />
+
+## 👨‍💻 About Me
+
+- 🎓 Software student exploring **Software Engineering & Web Development**
+- 💼 Working in **Digital Marketing, Meta Ads & Google Ads**
+- 🐍 Building web applications with **Python & Django**
+- 🚀 Interested in **Full-Stack Development & Digital Products**
+- 🎯 Passionate about combining **Technology, Creativity & Business**
+- 🌱 Continuously learning, experimenting, and improving
+- 📬 Reach me at **batsalr0@gmail.com**
+- ⚡ Fun fact: **Could I BE any more like Chandler Bing?**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css&theme=dark" alt="Programming Languages" />
+</p>
+
+### ⚙️ Frameworks & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,git,github,linux&theme=dark" alt="Development Tools" />
+</p>
+
+### 🗄️ Database & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,figma,ai,ps,pr&theme=dark" alt="Database and Design Tools" />
+</p>
+
+### 🎮 Creative & Other Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unreal,blender,vscode&theme=dark" alt="Creative Tools" />
 </p>
 
 ---
 
-<img align="right" height="160"
-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1cTh5amlzOTB2aDIyaDg1bWw4d29rdmZmbm53bmdwcWgwa3ZnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXJXa7vxesiXrmuwv2/giphy.gif" />
+## 📊 Digital Marketing & Strategy
 
-### 👨‍💻 About Me
-- 🎓 Software student passionate about **Web Development & Python**
-- 🧠 Currently working as a **Meta / Google Ads Manager & Digital Strategist**
-- ⚙️ Primary backend focus: **Django**
-- 📫 Reach me at: **batsalr0@gmail.com**
-- ⚡ Fun fact: **I am Chandler Bing**
+Beyond writing code, I work with digital platforms to help brands grow, connect with their audiences, and achieve measurable results.
 
----
+**Areas of Expertise:**
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python"/>
-  <img width="12"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="32" alt="oracle"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=ai,ps,pr,unreal" height="32" alt="creative-tools"/>
-</p>
+- 🎯 Meta Ads — Facebook & Instagram Advertising
+- 🔎 Google Ads — Campaign Planning & Optimization
+- 📈 Performance Marketing & Campaign Analytics
+- 🧠 Audience Research, Targeting & Segmentation
+- 🎨 Creative Strategy & Digital Branding
+- 📊 Marketing Reporting & Data-Driven Decision Making
+
+> I enjoy working at the intersection of technology, marketing, and creativity.
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.youtube.com/@batsalr0" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="youtube"/>
-  </a>
-  <a href="https://www.instagram.com/batsall_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/batsal-nath-shrestha-243a56269/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/>
-  </a>
-  <a href="https://x.com/ZEYROX_GB" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter"/>
-  </a>
-</p>
+## 📈 GitHub Activity
+
+<div align="center">
+
+### My Contribution History
+
+[![GitHub Contributions](https://ghchart.rshah.org/7aa2f7/batsalshr)](https://github.com/batsalshr)
+
+<sub>View my complete contribution history on <a href="https://github.com/batsalshr">GitHub</a>.</sub>
+
+</div>
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=batsalshr&theme=tokyo-night)
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/batsal-nath-shrestha-243a56269/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/batsall_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.youtube.com/@batsalr0" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://x.com/ZEYROX_GB" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+
+<br/>
+
+📧 **Email:** [batsalr0@gmail.com](mailto:batsalr0@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Code. Create. Learn. Repeat.
+
+*Always curious. Always building. Always improving.*
+
+**Thanks for visiting my GitHub profile! 🚀**
+
+</div>
