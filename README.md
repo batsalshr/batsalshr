@@ -69,4 +69,3 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1cTh5amlzOTB2aDIyaDg1b
 ---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=batsalshr&theme=tokyo-night)
-
