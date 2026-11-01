@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# Hey there! 👋 I'm Batsal Nath Shrestha
+# Hey there! I'm Batsal Nath Shrestha
 
-### 💻 Software Developer | 📊 Digital Marketing Strategist
+### Software Developer | Digital Marketing Strategist
 
 **Building digital experiences through code, creativity, and strategy.**
 
@@ -17,7 +17,7 @@ I'm a software student and digital marketing professional passionate about devel
 
 <img align="right" width="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1cTh5amlzOTB2aDIyaDg1bWw4d29rdmZmbm53bmdwcWgwa3ZnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXJXa7vxesiXrmuwv2/giphy.gif" alt="Coding GIF" />
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 Software student exploring **Software Engineering & Web Development**
 - 💼 Working in **Digital Marketing, Meta Ads & Google Ads**
@@ -32,27 +32,27 @@ I'm a software student and digital marketing professional passionate about devel
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css&theme=dark" alt="Programming Languages" />
 </p>
 
-### ⚙️ Frameworks & Development
+### Frameworks & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=django,git,github,linux&theme=dark" alt="Development Tools" />
 </p>
 
-### 🗄️ Database & Design
+### Database & Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,figma,ai,ps,pr&theme=dark" alt="Database and Design Tools" />
 </p>
 
-### 🎮 Creative & Other Tools
+### Creative & Other Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=unreal,blender,vscode&theme=dark" alt="Creative Tools" />
@@ -60,30 +60,30 @@ I'm a software student and digital marketing professional passionate about devel
 
 ---
 
-## 📊 Digital Marketing & Strategy
+## Digital Marketing & Strategy
 
 Beyond writing code, I work with digital platforms to help brands grow, connect with their audiences, and achieve measurable results.
 
 **Areas of Expertise:**
 
-- 🎯 Meta Ads — Facebook & Instagram Advertising
-- 🔎 Google Ads — Campaign Planning & Optimization
-- 📈 Performance Marketing & Campaign Analytics
-- 🧠 Audience Research, Targeting & Segmentation
-- 🎨 Creative Strategy & Digital Branding
-- 📊 Marketing Reporting & Data-Driven Decision Making
+- Meta Ads — Facebook & Instagram Advertising
+- Google Ads — Campaign Planning & Optimization
+- Performance Marketing & Campaign Analytics
+- Audience Research, Targeting & Segmentation
+- Creative Strategy & Digital Branding
+- Marketing Reporting & Data-Driven Decision Making
 
 > I enjoy working at the intersection of technology, marketing, and creativity.
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
 ### My Contribution History
 
-[![GitHub Contributions](https://ghchart.rshah.org/7aa2f7/batsalshr)](https://github.com/batsalshr)
+[![GitHub Contributions](https://ghchart.rshah.org/7ee787/batsalshr)](https://github.com/batsalshr)
 
 <sub>View my complete contribution history on <a href="https://github.com/batsalshr">GitHub</a>.</sub>
 
